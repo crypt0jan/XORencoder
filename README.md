@@ -1,5 +1,5 @@
 # XORencoder
-XOR encoder for extra obfuscation of your payload
+XOR encoder for extra obfuscation of your payload<br>
 Updated: June 21, 2021
 
 ---
